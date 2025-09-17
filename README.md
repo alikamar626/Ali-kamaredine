@@ -28,9 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikamar626&show_icons=true&theme=radical)  
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikamar626&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikamar626&layout=compact)
-
 ---
 
 ## 🌐 Connect With Me
